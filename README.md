@@ -22,7 +22,7 @@ $ git clone https://github.com/gasolin/androidbmi5th.git -b [branch_name] [/some
 
 ## 本書的範例主頁：
 
-* [BMI] (https://github.com/gasolin/androidbmi5th)
+* [Android BMI 5th] (https://github.com/gasolin/androidbmi5th)
 
 ## 授權
 
