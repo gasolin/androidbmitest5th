@@ -18,7 +18,7 @@ $ git clone https://github.com/gasolin/androidbmitest5th.git
 
 也可以透過如下命令分別下載：
 
-$ git clone https://github.com/gasolin/androidbmi5th.git -b [branch_name] [/some/folder]
+$ git clone https://github.com/gasolin/androidbmitest5th.git -b [branch_name] [/some/folder]
 
 ## 本書的範例主頁：
 
